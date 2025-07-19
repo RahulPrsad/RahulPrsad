@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rahul Prasad (@Rahul-Prasad)<br>
+# 👋 Hi, I’m Rahul Prasad <br>
 
 # 💫 About Me:<br>
 - 👀 **Interests:** Software development, web applications, UI/UX, and AI.<br>
